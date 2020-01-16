@@ -2,11 +2,11 @@
 
 ### Day 1: January 16, 2020
 
-**Today's Progress**: Done one hour of JavaScript challenge son Edabit 
+**Today's Progress**: Done one hour of JavaScript challenges on Edabit. 
 
-**Thoughts**: Feels good to have finally commited to 100days.
+**Thoughts**: Feels good to have finally commited to 100 Days.
 
-**Link to work:**: NA
+**Link to work:** NA
 
 
 ### Day 2: January 17, 2020
