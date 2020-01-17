@@ -11,11 +11,11 @@
 
 ### Day 2: January 17, 2020
 
-**Today's Progress**:
+**Today's Progress**: Worked on my portfolio website. Done more Edabit JavaScript challenges.
 
-**Thoughts**:
+**Thoughts**: NA
 
-**Link to work:**:
+**Link to work:**: NA
 
 
 ### Day 3: January 18, 2020
