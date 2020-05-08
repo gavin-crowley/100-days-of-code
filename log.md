@@ -61,3 +61,11 @@
 **Thoughts**:
 
 **Link to work:**:
+
+### Day 7: January 22, 2020
+
+**Today's Progress**:
+
+**Thoughts**:
+
+**Link to work:**:
