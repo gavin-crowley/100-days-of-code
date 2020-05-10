@@ -64,7 +64,7 @@
 
 ### Day 145: May 10, 2020
 
-**Today's Progress**: Search App Chat App
+**Today's Progress**: Search App 
 
 **Thoughts**:
 
